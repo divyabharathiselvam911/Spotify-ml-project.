@@ -1,0 +1,9 @@
+How effectively do baseline machine learning models predict Spotify song popularity using audio features?
+How does the performance of different regression models compare in predicting Spotify song popularity?
+What is the impact of preprocessing techniques such as missing value handling and scaling on prediction accuracy?
+Which audio features have the greatest influence on Spotify song popularity, and how can their impact be interpreted?
+How does the choice of evaluation metrics (MAE, MSE) influence model comparison results?
+How stable and reliable are the models under different data splits and testing conditions?
+Which machine learning model is most suitable for Spotify song popularity prediction considering accuracy, interpretability, and performance?
+
+
